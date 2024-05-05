@@ -55,8 +55,11 @@ Name : YOUR NAME HERE
 Account No. : 5476767898765432
 
 Card Type : MasterCard
+![Uploading travel-mate-egypt-card.jpeg…]()
 
 Name : COMPANX NAME M STEPHCNS
+
+![image](https://github.com/MohamedGamal29/TEKNOSOFT/assets/81489787/966ccebb-3761-440a-ac86-cb0f2e340f3d)
 
 Notes :
 It will not work on Indian Debit/Credit Cards as Indian card has a different Font and also each bank has their own FontStyle(Big Problem)
